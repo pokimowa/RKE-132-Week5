@@ -1,0 +1,27 @@
+//AND - &&
+
+//true && true --> true
+//true && false --> false
+//false && true --> false
+//false && false --> false
+
+
+//OR - || (pipes)
+
+//true || true --> true
+//true || false --> true
+//false || true --> true
+//false || false --> false
+
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
